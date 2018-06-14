@@ -5,4 +5,4 @@ from django.contrib import admin
 from validation.models import Appliance, ValidResult
 
 admin.site.register(Appliance)
-admin.site.register(ValidResult)
+admin.site.register(ValidResult) 
